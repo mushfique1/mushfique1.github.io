@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: MUHAMMAD MUSHFIQUR RAHMAN # the website title (if blank, full name will be used instead)
-first_name: MUHAMMAD 
+title: Muhammad Mushfique Rahman # the website title (if blank, full name will be used instead)
+first_name: Muhammad Mushfique
 middle_name: 
-last_name: MUSHFIQUR RAHMAN
+last_name: Rahman
 email: mushfiqur@nstu.edu.bd
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -13,8 +13,8 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+url: https://mushfique1.github.io/ # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
