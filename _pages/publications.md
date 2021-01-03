@@ -2,12 +2,13 @@
 layout: page
 permalink: /publications/
 title: research
-description: Curated list of Journal publications and talks in different connferences. 
+description: Curated list of Journal publications and talks in different conferences.
 years: 
 nav: true
 ---
+You can find google indexed article list [here](https://scholar.google.com/citations?hl=en&user=Qk24mNcAAAAJ).
 
-<p style="font-size:30px;">Publications</p> 
+## Publications
 
 - Jahan, N., & Rahman, M. M. (2020). <strong>*Collective Consciousness To Pursue Gender Equality In The Ministry Of Utmost Happiness.*</strong> European Proceedings of Social and Behavioural Sciences EpSBS, 89, 179–189. 
     [[Pdf]](https://doi.org/10.15405/epsbs.2020.10.02.17)
@@ -28,15 +29,15 @@ nav: true
     [[Pdf]](https://doi.org/10.15405/epsbs.2020.10.02.42)
 
 
-<p style="font-size:30px;">Article(s) in press</p> 
+## Article(s) in press
 
 - Rashid, M. A., & Rahman, M. M. (2021). <strong>*The Impact of Sociocultural Contexts on English Language Learning: A Study of Primary Level Education in Bangladesh.*</strong> BAIUST Academic Journal, 1(1).
 
-<p style="font-size:30px;">Conference Presentation</p> 
+## Conference Presentation
 
 - Paper presented at the 5th *International Conference of Linguistics, Literature & Culture 2019*
 **Title: Marginalization of Native Language and Culture: An Effect of English Language Globalization in Bangladesh.**
-- Paper presented at the *82nd International Conference on Humanities 2019* on **L2 learning through private tuition: A challenge for national education policy in Bangladesh** 
+- Paper presented at the *82nd International Conference on Humanities 2019* on **L2 learning through private tuition: A challenge for national education policy in Bangladesh**
 - Paper presented at the *2nd International Conference on Humanities 2019* on **The Influence of Socio-cultural Context in Learning English Language: A Study on Primary Level Education in Bangladesh**
 - Paper presented at the *2nd International Conference on Humanities 2019* on **The impact of social factors on accommodation of rural and urban phonological variables in IRBID**
 - Paper presented at the *2nd International Conference on Humanities 2019* on **Collective Consciousness to Pursue Gender Equality in The Ministry of Utmost Happiness**

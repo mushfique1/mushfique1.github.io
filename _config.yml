@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Muhammad Mushfique Rahman # the website title (if blank, full name will be used instead)
-first_name: Muhammad Mushfique
+title: M. Mushfiqur Rahman # the website title (if blank, full name will be used instead)
+first_name: M. Mushfiqur
 middle_name: 
 last_name: Rahman
 email: mushfiqur@nstu.edu.bd
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal webpage of Mushfiqur Rahman.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -53,7 +53,7 @@ blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is email. Please contact me if you have any concern.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
